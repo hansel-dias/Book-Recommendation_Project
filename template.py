@@ -22,7 +22,9 @@ list_of_files = [
     'requirements.txt',            # Requirements: File listing required Python packages
     'setup.py',                    # Project Setup: Python setup script for project installation
     'research/trials.ipynb',       # Research: Jupyter Notebook for experimentation and trials
-    'test.py'                      # Test: Python script for testing purposes
+    'test.py',                      # Test: Python script for testing purposes
+    'templates/index.html',
+    'src/__init__.py'
 ]
 
 
